@@ -5,14 +5,20 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-
 UserSettings/
 
 Assets/AssetBundles/
 
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Solution files
 *.csproj
 *.unityproj
 *.sln
+*.slnx
 *.suo
 *.user
 *.tmp
@@ -22,5 +28,6 @@ Assets/AssetBundles/
 *.pdb
 *.mdb
 
+# OS files
 .DS_Store
 Thumbs.db
