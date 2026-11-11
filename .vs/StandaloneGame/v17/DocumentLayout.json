@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62BF5815-BF6B-33C0-0B0A-CA98E3B1BB0D}|Assembly-CSharp.csproj|c:\\users\\brams\\documents\\game\\standalonegame\\assets\\script\\game_shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BF5815-BF6B-33C0-0B0A-CA98E3B1BB0D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\game_shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BF5815-BF6B-33C0-0B0A-CA98E3B1BB0D}|Assembly-CSharp.csproj|C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\assets\\script\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BF5815-BF6B-33C0-0B0A-CA98E3B1BB0D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BF5815-BF6B-33C0-0B0A-CA98E3B1BB0D}|Assembly-CSharp.csproj|C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BF5815-BF6B-33C0-0B0A-CA98E3B1BB0D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BF5815-BF6B-33C0-0B0A-CA98E3B1BB0D}|Assembly-CSharp.csproj|C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\assets\\script\\combat_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BF5815-BF6B-33C0-0B0A-CA98E3B1BB0D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\combat_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BF5815-BF6B-33C0-0B0A-CA98E3B1BB0D}|Assembly-CSharp.csproj|C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\assets\\script\\game_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BF5815-BF6B-33C0-0B0A-CA98E3B1BB0D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\game_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brams\\Documents\\Game\\SamsaraZone\\Assets\\Scripts\\GameUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T03:54:41.335Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game_Shop.cs",
+              "DocumentMoniker": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\Assets\\Script\\Game_Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Game_Shop.cs",
+              "ToolTip": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\Assets\\Script\\Game_Shop.cs",
+              "RelativeToolTip": "Assets\\Script\\Game_Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T12:37:01.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\Assets\\Script\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameData.cs",
+              "ToolTip": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\Assets\\Script\\GameData.cs",
+              "RelativeToolTip": "Assets\\Script\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T18:32:59.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Combat_UI.cs",
+              "DocumentMoniker": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\Assets\\Script\\Combat_UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Combat_UI.cs",
+              "ToolTip": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\Assets\\Script\\Combat_UI.cs",
+              "RelativeToolTip": "Assets\\Script\\Combat_UI.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T16:27:31.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game_UI.cs",
+              "DocumentMoniker": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\Assets\\Script\\Game_UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Game_UI.cs",
+              "ToolTip": "C:\\Users\\brams\\Documents\\Game\\StandaloneGame\\Assets\\Script\\Game_UI.cs",
+              "RelativeToolTip": "Assets\\Script\\Game_UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T16:11:54.316Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "2b9d214b-f344-4f91-9143-2fd222385273",
+        "Display": 0,
+        "X": 27,
+        "Y": 51,
+        "Width": 665,
+        "Height": 650,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "C:\\Users\\brams\\Documents\\Game\\SamsaraZone\\Assets\\Scripts\\GameUI.cs",
+              "RelativeDocumentMoniker": "..\\SamsaraZone\\Assets\\Scripts\\GameUI.cs",
+              "ToolTip": "C:\\Users\\brams\\Documents\\Game\\SamsaraZone\\Assets\\Scripts\\GameUI.cs",
+              "RelativeToolTip": "..\\SamsaraZone\\Assets\\Scripts\\GameUI.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T16:19:34.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
