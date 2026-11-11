@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb3977613ed1f4944800bed4f50a26b1, type: 3}
+  m_Name: New Buff_Data
+  m_EditorClassIdentifier: Assembly-CSharp::Buff_Data
+  ID: 
+  Name: 
+  Icon: {fileID: 0}
+  Duration: 0
+  MaxStack: 1
+  RefreshDuration: 1
+  RefreshStack: 1
+  Actions:
+  - Phase: 0
+    Effects: []
+  references:
+    version: 2
+    RefIds: []
